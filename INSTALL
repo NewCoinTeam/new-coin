@@ -1,0 +1,4 @@
+Building NewCoin
+See doc/readme-qt.rst for instructions on building NewCoin QT.
+
+See doc/build-*.txt for instructions on building NewCoind.
